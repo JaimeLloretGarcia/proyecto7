@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.7bdfe1dc.css",
-    "main.js": "/static/js/main.9b170eae.js",
+    "main.js": "/static/js/main.12c0043c.js",
     "static/js/787.81f24527.chunk.js": "/static/js/787.81f24527.chunk.js",
     "static/media/Inter-VariableFont_slnt,wght.ttf": "/static/media/Inter-VariableFont_slnt,wght.aadb65ac45347ff46699.ttf",
     "static/media/fondoprincipal.jpg": "/static/media/fondoprincipal.32a42d47926b33afd869.jpg",
@@ -11,11 +11,11 @@
     "static/media/large_trabajo_cuidadora_personas_mayores_03e82c314c.jpg": "/static/media/large_trabajo_cuidadora_personas_mayores_03e82c314c.f75e38d34db520229611.jpg",
     "index.html": "/index.html",
     "main.7bdfe1dc.css.map": "/static/css/main.7bdfe1dc.css.map",
-    "main.9b170eae.js.map": "/static/js/main.9b170eae.js.map",
+    "main.12c0043c.js.map": "/static/js/main.12c0043c.js.map",
     "787.81f24527.chunk.js.map": "/static/js/787.81f24527.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7bdfe1dc.css",
-    "static/js/main.9b170eae.js"
+    "static/js/main.12c0043c.js"
   ]
 }
